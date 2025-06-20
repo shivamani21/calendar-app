@@ -126,4 +126,4 @@ src/
 [https://shivamani21.github.io/calendar-app/]
 
 ## Repository
-[https://shivamani21.github.io/calendar-app]
+[https://github.com/shivamani21/calendar-app]
