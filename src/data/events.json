@@ -1,0 +1,331 @@
+[
+  {
+    "startTime": "09:00",
+    "endTime": "09:30",
+    "color": "#3b82f6",
+    "title": "Daily Standup",
+    "date": "2025-05-01"
+  },
+  {
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "color": "#8b5cf6",
+    "title": "Sprint Planning",
+    "date": "2025-05-02"
+  },
+  {
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "color": "#10b981",
+    "title": "Design Sync / UI Review",
+    "date": "2025-05-05"
+  },
+  {
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "color": "#f59e0b",
+    "title": "Code Review Session",
+    "date": "2025-05-05"
+  },
+  {
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "color": "#ef4444",
+    "title": "API Integration Meeting",
+    "date": "2025-05-08"
+  },
+  {
+    "startTime": "09:00",
+    "endTime": "09:30",
+    "color": "#3b82f6",
+    "title": "Daily Standup",
+    "date": "2025-05-12"
+  },
+  {
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "color": "#06b6d4",
+    "title": "Sprint Review / Demo",
+    "date": "2025-05-15"
+  },
+  {
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "color": "#84cc16",
+    "title": "Retrospective Meeting",
+    "date": "2025-05-16"
+  },
+  {
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "color": "#f97316",
+    "title": "Release/Deployment Planning",
+    "date": "2025-05-20"
+  },
+  {
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "color": "#ec4899",
+    "title": "Team Meeting",
+    "date": "2025-05-22"
+  },
+  {
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "color": "#6366f1",
+    "title": "Tech Talk / Internal Training",
+    "date": "2025-05-25"
+  },
+  {
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "color": "#14b8a6",
+    "title": "All-Hands / Town Hall",
+    "date": "2025-05-28"
+  },
+  {
+    "startTime": "09:00",
+    "endTime": "09:30",
+    "color": "#3b82f6",
+    "title": "Daily Standup",
+    "date": "2025-06-02"
+  },
+  {
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "color": "#8b5cf6",
+    "title": "Sprint Planning",
+    "date": "2025-06-03"
+  },
+  {
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "color": "#10b981",
+    "title": "Design Sync / UI Review",
+    "date": "2025-06-05"
+  },
+  {
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "color": "#ef4444",
+    "title": "API Integration Meeting",
+    "date": "2025-06-09"
+  },
+  {
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "color": "#f59e0b",
+    "title": "Code Review Session",
+    "date": "2025-06-12"
+  },
+  {
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "color": "#06b6d4",
+    "title": "Sprint Review / Demo",
+    "date": "2025-06-16"
+  },
+  {
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "color": "#84cc16",
+    "title": "Retrospective Meeting",
+    "date": "2025-06-17"
+  },
+  {
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "color": "#f97316",
+    "title": "Release/Deployment Planning",
+    "date": "2025-06-20"
+  },
+  {
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "color": "#ec4899",
+    "title": "Team Meeting",
+    "date": "2025-06-23"
+  },
+  {
+    "startTime": "00:00",
+    "endTime": "23:59",
+    "color": "#f43f5e",
+    "title": "Leave / Holiday Notification",
+    "date": "2025-06-25"
+  },
+  {
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "color": "#6366f1",
+    "title": "Tech Talk / Internal Training",
+    "date": "2025-06-27"
+  },
+  {
+    "startTime": "09:00",
+    "endTime": "09:30",
+    "color": "#3b82f6",
+    "title": "Daily Standup",
+    "date": "2025-07-01"
+  },
+  {
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "color": "#8b5cf6",
+    "title": "Sprint Planning",
+    "date": "2025-07-02"
+  },
+  {
+    "startTime": "00:00",
+    "endTime": "23:59",
+    "color": "#f43f5e",
+    "title": "Leave / Holiday Notification",
+    "date": "2025-07-04"
+  },
+  {
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "color": "#10b981",
+    "title": "Design Sync / UI Review",
+    "date": "2025-07-07"
+  },
+  {
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "color": "#ef4444",
+    "title": "API Integration Meeting",
+    "date": "2025-07-10"
+  },
+  {
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "color": "#f59e0b",
+    "title": "Code Review Session",
+    "date": "2025-07-14"
+  },
+  {
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "color": "#06b6d4",
+    "title": "Sprint Review / Demo",
+    "date": "2025-07-16"
+  },
+  {
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "color": "#84cc16",
+    "title": "Retrospective Meeting",
+    "date": "2025-07-17"
+  },
+  {
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "color": "#f97316",
+    "title": "Release/Deployment Planning",
+    "date": "2025-07-21"
+  },
+  {
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "color": "#ec4899",
+    "title": "Team Meeting",
+    "date": "2025-07-24"
+  },
+  {
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "color": "#14b8a6",
+    "title": "All-Hands / Town Hall",
+    "date": "2025-07-28"
+  },
+  {
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "color": "#6366f1",
+    "title": "Tech Talk / Internal Training",
+    "date": "2025-07-30"
+  },
+  {
+    "startTime": "09:00",
+    "endTime": "09:30",
+    "color": "#3b82f6",
+    "title": "Daily Standup",
+    "date": "2025-08-01"
+  },
+  {
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "color": "#8b5cf6",
+    "title": "Sprint Planning",
+    "date": "2025-08-04"
+  },
+  {
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "color": "#10b981",
+    "title": "Design Sync / UI Review",
+    "date": "2025-08-06"
+  },
+  {
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "color": "#ef4444",
+    "title": "API Integration Meeting",
+    "date": "2025-08-08"
+  },
+  {
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "color": "#f59e0b",
+    "title": "Code Review Session",
+    "date": "2025-08-11"
+  },
+  {
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "color": "#06b6d4",
+    "title": "Sprint Review / Demo",
+    "date": "2025-08-14"
+  },
+  {
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "color": "#84cc16",
+    "title": "Retrospective Meeting",
+    "date": "2025-08-15"
+  },
+  {
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "color": "#f97316",
+    "title": "Release/Deployment Planning",
+    "date": "2025-08-18"
+  },
+  {
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "color": "#ec4899",
+    "title": "Team Meeting",
+    "date": "2025-08-21"
+  },
+  {
+    "startTime": "00:00",
+    "endTime": "23:59",
+    "color": "#f43f5e",
+    "title": "Leave / Holiday Notification",
+    "date": "2025-08-25"
+  },
+  {
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "color": "#14b8a6",
+    "title": "All-Hands / Town Hall",
+    "date": "2025-08-27"
+  },
+  {
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "color": "#6366f1",
+    "title": "Tech Talk / Internal Training",
+    "date": "2025-08-29"
+  }
+]
