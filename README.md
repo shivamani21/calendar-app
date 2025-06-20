@@ -1,6 +1,7 @@
 # Professional Calendar Application
 
-## Company Assessment Project
+## Live Demo: 
+https://shivamani21.github.io/calendar-app/
 
 A modern, responsive calendar web application built with React and Vite, featuring event management and conflict detection capabilities.
 
