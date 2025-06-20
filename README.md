@@ -1,7 +1,6 @@
 # Professional Calendar Application
 
-## Live Demo: 
-https://shivamani21.github.io/calendar-app/
+## Live Demo: https://shivamani21.github.io/calendar-app/
 
 A modern, responsive calendar web application built with React and Vite, featuring event management and conflict detection capabilities.
 
@@ -124,7 +123,7 @@ src/
 ✅ Professional UI/UX design  
 
 ## Live Demo
-[GitHub Pages Deployment Link]
+[https://shivamani21.github.io/calendar-app/]
 
 ## Repository
-[GitHub Repository Link]
+[https://shivamani21.github.io/calendar-app]
